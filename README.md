@@ -1,47 +1,12 @@
-## Project Name & Pitch
+## List of Personal Projects
+[Connect Four Variation MiniMax Implementation](https://github.com/Ocrabit/Connect-Four-MiniMax-Implementation/edit/main/README.md 'Connect Four Variation MiniMax Implementation')
 
-#### Example:
 
-TweetWorld 
+[Dart-Board-Runnable-Implementation-with-Swing](https://github.com/Ocrabit/Dart-Board-Runnable-Implementation-with-Swing 'Dart-Board-Runnable-Implementation-with-Swing')
 
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
 
-## Project Status
-(only necessary if incomplete)
+[Office-Game-Boundaries-of-Swing](https://github.com/Ocrabit/Office-Game-Boundaries-of-Swing 'Office-Game-Boundaries-of-Swing')
 
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
-
-## Project Screen Shot(s)
-
-#### Example:   
-
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
-
-## Installation and Setup Instructions
-
-#### Example:  
-
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
-
-Installation:
-
-`npm install`  
-
-To Run Test Suite:  
-
-`npm test`  
-
-To Start Server:
-
-`npm start`  
-
-To Visit App:
-
-`localhost:3000/ideas`  
 
 ## Reflection
 
