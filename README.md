@@ -1,28 +1,21 @@
 ## List of Personal Projects
-[Connect Four Variation MiniMax Implementation](https://github.com/Ocrabit/Connect-Four-MiniMax-Implementation/edit/main/README.md 'Connect Four Variation MiniMax Implementation')
+[Pokemon Prediction Data Analysis](https://github.com/Ocrabit/Pokemon-Prediction-Data 'Pokemon Prediction Data Analysis')
+<br> <sub><i> A data analysis project using statistical modeling techniques like to first predict pokemon legendary status and then predict match outcomes. </sub></i>
 
+[Knitting App Design Python](https://github.com/Ocrabit/TestKnit 'Knitting App Design Python')
+<br> <sub><i> A designed to help knitters have a better way to create knitting patterns. This is a project that I used to sharpen my general skills in python and focus on good class management </sub></i>
+
+[Belmont Transportation Hackathon](https://github.com/Ocrabit/Hackathon2024 'Belmont Transportation Hackathon')
+<br> <sub><i> A hackathon I did in April of 2024 where we focus on trying to find solutions to a transportation issue in Nashville TN. My role was to create interactive maps using coordinate data of bus stops and different amenities like what bus stops had benches. I also used a converting library to get the zipcodes for each bus stop based on the coordinate location. This allowed us to look at each stop in regards to its demographic data. </sub></i>
+
+[Connect Four Variation MiniMax Implementation](https://github.com/Ocrabit/Connect-Four-MiniMax-Implementation 'Connect Four Variation MiniMax Implementation')
+<br> <sub><i> An implementation of the MiniMax algorithm for a Connect Four variation, showcasing three step ahead algorithmic thinking in a java environment. </sub></i>
 
 [Dart-Board-Runnable-Implementation-with-Swing](https://github.com/Ocrabit/Dart-Board-Runnable-Implementation-with-Swing 'Dart-Board-Runnable-Implementation-with-Swing')
-
+<br> <sub><i> A Java project that features a Dart Board interface using the Runnable class and Swing for the UI. It includes reading and writing text files to save and load round histories. </sub></i>
 
 [Office-Game-Boundaries-of-Swing](https://github.com/Ocrabit/Office-Game-Boundaries-of-Swing 'Office-Game-Boundaries-of-Swing')
+<br> <sub><i> A Java Swing project where I implemented a lot of techniques learned in programming II. I focused on window management, thread handling, and running a game within a JLayered Pane, while making simple reusable components with support by good code management </sub></i>
 
-
-## Reflection
-
-  - What was the context for this project? (ie: was this a side project? was this for Turing? was this for an experiment?)
-  - What did you set out to build?
-  - Why was this project challenging and therefore a really good learning experience?
-  - What were some unexpected obstacles?
-  - What tools did you use to implement this project?
-      - This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.  
-
-#### Example:  
-
-This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
-
-Originally I wanted to build an application that allowed users to pull data from the Twitter API based on what they were interested in, such as 'most tagged users'. I started this process by using the `create-react-app` boilerplate, then adding `react-router-4.0` and `redux`.  
-
-One of the main challenges I ran into was Authentication. This lead me to spend a few days on a research spike into OAuth, Auth0, and two-factor authentication using Firebase or other third parties. Due to project time constraints, I had to table authentication and focus more on data visualization from parts of the API that weren't restricted to authenticated users.
-
-At the end of the day, the technologies implemented in this project are React, React-Router 4.0, Redux, LoDash, D3, and a significant amount of VanillaJS, JSX, and CSS. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes. In the next iteration I plan on handrolling a `webpack.config.js` file to more fully understand the build process.
+## About Me
+I'm a college student passionate about data analytics and learning, with hands-on experience in statistical modeling and predictive analysis. While I'm still learning, I've applied my growing skills to projects like predicting Pokémon match outcomes and creating interactive maps to help better understand the transportation issue in Nashville. I generally just love anything in the realm of coding and am happy to learn whatever I can to best fit the needed skillset.
