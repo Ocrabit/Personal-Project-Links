@@ -11,10 +11,10 @@
 [Connect Four Variation MiniMax Implementation](https://github.com/Ocrabit/Connect-Four-MiniMax-Implementation 'Connect Four Variation MiniMax Implementation')
 <br> <sub><i> An implementation of the MiniMax algorithm for a Connect Four variation, showcasing three step ahead algorithmic thinking in a java environment. </sub></i>
 
-[Dart-Board-Runnable-Implementation-with-Swing](https://github.com/Ocrabit/Dart-Board-Runnable-Implementation-with-Swing 'Dart-Board-Runnable-Implementation-with-Swing')
+[Dart Board Runnable Implementation with Swing](https://github.com/Ocrabit/Dart-Board-Runnable-Implementation-with-Swing 'Dart-Board-Runnable-Implementation-with-Swing')
 <br> <sub><i> A Java project that features a Dart Board interface using the Runnable class and Swing for the UI. It includes reading and writing text files to save and load round histories. </sub></i>
 
-[Office-Game-Boundaries-of-Swing](https://github.com/Ocrabit/Office-Game-Boundaries-of-Swing 'Office-Game-Boundaries-of-Swing')
+[Office Game Boundaries of Swing](https://github.com/Ocrabit/Office-Game-Boundaries-of-Swing 'Office-Game-Boundaries-of-Swing')
 <br> <sub><i> A Java Swing project where I implemented a lot of techniques learned in programming II. I focused on window management, thread handling, and running a game within a JLayered Pane, while making simple reusable components with support by good code management </sub></i>
 
 ## About Me
