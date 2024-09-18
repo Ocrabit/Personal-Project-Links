@@ -18,4 +18,5 @@
 <br> <sub><i> A Java Swing project where I implemented a lot of techniques learned in programming II. I focused on window management, thread handling, and running a game within a JLayered Pane, while making simple reusable components with support by good code management </sub></i>
 
 ## About Me
+I am Marco Cassar!
 I'm a college student passionate about data analytics and learning, with hands-on experience in statistical modeling and predictive analysis. While I'm still learning, I've applied my growing skills to projects like predicting Pokémon match outcomes and creating interactive maps to help better understand the transportation issue in Nashville. I generally just love anything in the realm of coding and am happy to learn whatever I can to best fit the needed skillset.
